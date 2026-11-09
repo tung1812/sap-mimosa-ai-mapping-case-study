@@ -1,6 +1,5 @@
 # SAP–MIMOSA AI Mapping — Capstone Case Study
 
-> **Publication status:** Draft for review. The original team repository is private under university rules. Publish this summary only after confirming that the project description and technical details are approved for public disclosure.
 
 ## Overview
 
